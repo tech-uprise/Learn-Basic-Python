@@ -1,7 +1,7 @@
 #	This is a simple python project which introduces to python essentials
-# 	I used Ecplise for this project - PyDev with python3 interpreter as the code completion option didn't work for me in VS Code. 
-#	My setup was on macOS High Sierra (10.13.1 (17B1003))
-#	What does it cover?
+	-	I used Ecplise for this project - PyDev with python3 interpreter as the code completion option didn't work for me in VS Code. 
+	-	My setup was on macOS High Sierra (10.13.1 (17B1003))
+	-	What does it cover?
 	1.	Topics include:
 	2.	Installing Python
 	3.	Choosing an editor or IDE
@@ -13,7 +13,6 @@
 	9.	Parsing and processing HTML
 
 #	Downloading python, sample code, IDE and configuring correct version of python:
-	-	(Note: )
 
 	1.	Install python from: https://www.python.org/
 		-	Check version: python3 --version (the output should be something like this - Python 3.7.0a2 )
