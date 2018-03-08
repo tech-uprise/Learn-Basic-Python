@@ -13,7 +13,6 @@
 	9.	Parsing and processing HTML
 
 #	Downloading python, sample code, IDE and configuring correct version of python:
-	-	(Note: )
 
 	1.	Install python from: https://www.python.org/
 		-	Check version: python3 --version (the output should be something like this - Python 3.7.0a2 )
